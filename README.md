@@ -18,3 +18,8 @@
 | 5 | Added a list of things I like | Add list of things I like | main |
 | 6 | Added my goals | Add my goals section | main |
 | 7 | Fixed goals section order | Fix end goals section | main |
+
+
+## My Live Website
+
+[Visit my website](https://alexandraortiz25-beep.github.io/week-1-checkpoint/)
