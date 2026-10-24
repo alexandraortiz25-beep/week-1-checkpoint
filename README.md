@@ -13,3 +13,4 @@
 |---|---|---|---|
 | 1 | Made the repo on GitHub with a README | Initial commit | main |
 | 2 | Created my first page | Add first web page | main |
+| 3 | Updated home page | Update home page | main |
