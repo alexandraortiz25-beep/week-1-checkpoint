@@ -18,7 +18,9 @@
 | 5 | Added a list of things I like | Add list of things I like | main |
 | 6 | Added my goals | Add my goals section | main |
 | 7 | Fixed goals section order | Fix end goals section | main |
-
+| 8 | Added a link to a site I like | Add a link to a site I like | main |
+| 9 | Added live website link to README | Add live website link | main |
+| 10 | Added picture to my page | Add picture and website link | main |
 
 ## My Live Website
 
